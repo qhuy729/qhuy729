@@ -1,6 +1,4 @@
 <h1 align="center">Hello 👋, I'm Huy Tran</h1>
-<h3 align="center">A super lazy programmer from HCMC</h3>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **a few things related to web development, especially PHP and Laravel**
